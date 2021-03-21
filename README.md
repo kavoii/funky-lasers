@@ -1,3 +1,3 @@
-# funky-lasers
+# funky-lasers/gh-pages
 
-Test repo!
+gh-pages branch!
